@@ -1,1 +1,8 @@
 # Movie_search_app
+COMPANY:CODTECH IT SOLUTIONS
+
+NAME:GIDDALURI USHA
+
+INTERN ID:CT12WLET
+
+DOMAIN:React.js Web Development
